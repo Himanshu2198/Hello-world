@@ -1,6 +1,6 @@
 # Hello-world
 
-## Leaning git
+## Learning git
 
 ```
    as a beginer.
